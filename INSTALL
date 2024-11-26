@@ -1,0 +1,19 @@
+# Installation Instructions
+
+1. **Install CUDA Toolkit**: Ensure that the NVIDIA CUDA Toolkit is installed on your system. You can download it from the NVIDIA website.
+
+2. **Clone the Repository**: 
+   ```bash
+   git clone <repository-url>
+   cd CUDAImageProcessingProject
+   ```
+
+3. **Build the Project**:
+   ```bash
+   make
+   ```
+
+4. **Run the Program**:
+   ```bash
+   ./run.sh
+   ```
